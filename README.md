@@ -20,8 +20,6 @@ A web-based collaborative whiteboard application that supports real-time interac
 - **Clerk:** For secure user authentication and management.
 
 ## Screenshot
-https://raw.githubusercontent.com/Neel3301/White-Board/main/public/Screenshot%202024-07-31%20130122.png
-
 ![App Screenshot](https://github.com/Neel3301/White-Board/blob/main/public/Screenshot%202024-07-31%20130122.png?raw=true)
 
 ## Run Locally
